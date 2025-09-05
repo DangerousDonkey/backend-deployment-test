@@ -1,2 +1,2 @@
 #!/bin/bash
-gunicorn helloworld:app
+gunicorn app:app
